@@ -17,5 +17,5 @@ This documentation explains step by step how to deploy and configure a Windows S
 ## Screenshots
 
 ### Schritt 1: VM erstellen
-![VM Creation](./images/step1_vm_creation.png)
+![VM Creation](images/Bild_2025-08-29_172434118.png)
 
