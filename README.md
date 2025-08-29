@@ -50,6 +50,8 @@ Turning off service manager:
 
 ### Step 4: installing roles and feautures
 
-![serviceoff](images/Bild_2025-08-29_181142904.png)
+Serverroles
+
+![serverroles](images/Bild_2025-08-29_181142904.png) - also make sure group polivies are active in feautures. 
 
 
