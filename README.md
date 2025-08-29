@@ -40,3 +40,7 @@ connect via baston:
 ![connection](images/Bild_2025-08-29_175819553.png)
 
 ![connected](images/Bild_2025-08-29_180308938.png)
+
+Turning off service manager: 
+
+![serviceoff](images/Bild_2025-08-29_180548337.png)
