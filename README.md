@@ -28,10 +28,13 @@ During the creation process, additional configuration options such as availabili
 ![VM Configuration](./images/Bild_2025-08-29_173714162.png)
 
 Deploying bastion:
-![VM Configuration](./images/Bild_2025-08-29_174612499.png)
+![VM Deploy](./images/Bild_2025-08-29_174612499.png)
 
 ### Step 3: Configure networking and access
 
-
 Setting static Ip: 
-![VM Configuration](./images/Bild_2025-08-29_175307868.png)
+![Configuration](./images/Bild_2025-08-29_175307868.png)
+
+connect via baston:
+
+![Configuration](images/Bild_2025-08-29_175819553.png)
