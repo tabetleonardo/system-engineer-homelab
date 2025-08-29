@@ -9,7 +9,7 @@ This documentation explains step by step how to deploy and configure a Windows S
 ## Steps
 1. Create a resource group.
 2. Deploy a Windows Server virtual machine.
-3. Configure networking and access.
+3. Configure networking and access and connect to the VM.
 4. Installing roles and feautures
 5. Test the connection.
 
@@ -32,7 +32,7 @@ Deploying bastion:
 ![VM Deploy](./images/Bild_2025-08-29_174612499.png)
 
 
-### Step 3: Configure networking and access
+### Step 3: Configure networking and access and connect
 
 Setting static Ip: 
 ![Configuration](./images/Bild_2025-08-29_175307868.png)
@@ -54,4 +54,8 @@ Serverroles
 
 ![serverroles](images/Bild_2025-08-29_181142904.png) - also make sure group polivies are active in feautures. 
 
-![serverroles](images/Bild_2025-08-29_181609333.png)
+
+### Step 5: Test the connection
+
+
+![connected](images/Bild_2025-08-29_181609333.png)
