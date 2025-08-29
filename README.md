@@ -37,4 +37,6 @@ Setting static Ip:
 
 connect via baston:
 
-![Configuration](images/Bild_2025-08-29_175819553.png)
+![connection](images/Bild_2025-08-29_175819553.png)
+
+![connected](images/Bild_2025-08-29_180308938.png)
