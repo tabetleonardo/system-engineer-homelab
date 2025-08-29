@@ -10,7 +10,7 @@ This documentation explains step by step how to deploy and configure a Windows S
 1. Create a resource group.
 2. Deploy a Windows Server virtual machine.
 3. Configure networking and access.
-4. installing roles and feautures
+4. Installing roles and feautures
 5. Test the connection.
 
 ---
@@ -54,4 +54,4 @@ Serverroles
 
 ![serverroles](images/Bild_2025-08-29_181142904.png) - also make sure group polivies are active in feautures. 
 
-
+![serverroles](images/Bild_2025-08-29_181609333.png)
